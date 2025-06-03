@@ -100,8 +100,3 @@ I'm a **MERN Stack Developer** passionate about building modern, responsive, and
 - Contribute to open source and collaborate on large-scale projects.  
 - Continue sharpening my DSA skills and prepare for backend interviews.  
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaswanthMallavarapu&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
