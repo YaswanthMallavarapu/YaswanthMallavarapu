@@ -7,7 +7,7 @@ I'm a **MERN Stack Developer** passionate about building modern, responsive, and
 ## 📚 About Me
 
 - 🎓 **B.Tech in Computer Science and Engineering**, Parul University (2022 – Present)  
-- 💼 **Frontend Developer Intern** at Kraf Technologies (April 2025 – Present)  
+- 💼 **Frontend Developer Intern** at Kraf Technologies (April 2025 – June 2025)  
 - 🚀 Strong foundation in full-stack development (React, Node.js, Express, MongoDB)  
 - 💡 Passionate about problem-solving, algorithms, and data structures  
 - 🌐 Building projects that prioritize user experience, security, and scalability  
@@ -33,7 +33,7 @@ I'm a **MERN Stack Developer** passionate about building modern, responsive, and
 
 ## 💼 Experience
 
-### Frontend Developer Intern @ Kraf Technologies (Apr 2025 – June 25=025)
+### Frontend Developer Intern @ Kraf Technologies (Apr 2025 – June 2025)
 - Built responsive UIs from Figma designs using React, Tailwind CSS, and vanilla JavaScript, increasing user engagement by **20%**.
 - Developed interactive components (modals, carousels, custom dropdowns) to enhance performance and cross-device experience.
 - Collaborated with designers and backend teams to deliver fast, scalable front-end solutions—improving delivery speed by **25%**.
