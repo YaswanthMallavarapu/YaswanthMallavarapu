@@ -33,7 +33,7 @@ I'm a **MERN Stack Developer** passionate about building modern, responsive, and
 
 ## 💼 Experience
 
-### Frontend Developer Intern @ Kraf Technologies (Apr 2025 – Present)
+### Frontend Developer Intern @ Kraf Technologies (Apr 2025 – June 25=025)
 - Built responsive UIs from Figma designs using React, Tailwind CSS, and vanilla JavaScript, increasing user engagement by **20%**.
 - Developed interactive components (modals, carousels, custom dropdowns) to enhance performance and cross-device experience.
 - Collaborated with designers and backend teams to deliver fast, scalable front-end solutions—improving delivery speed by **25%**.
