@@ -6,7 +6,7 @@ I'm a **MERN Stack Developer** passionate about building modern, responsive, and
 
 ## 📚 About Me
 
-- 🎓 **B.Tech in Computer Science and Engineering**, Parul University (2022 – Present)  
+- 🎓 **B.Tech in Computer Science and Engineering**, Parul University (2022 – 2026)  
 - 💼 **Frontend Developer Intern** at Kraf Technologies (April 2025 – June 2025)  
 - 🚀 Strong foundation in full-stack development (React, Node.js, Express, MongoDB)  
 - 💡 Passionate about problem-solving, algorithms, and data structures  
@@ -62,7 +62,7 @@ I'm a **MERN Stack Developer** passionate about building modern, responsive, and
 ## 🎓 Education
 
 - **B.Tech in Computer Science and Engineering**  
-  Parul University (September 2022 – Present)
+  Parul University (September 2022 – 2026)
 
 - **Higher Secondary Education**  
   Sri Chaitanya College (July 2020 – May 2022)
